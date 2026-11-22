@@ -1,0 +1,14 @@
+# Python Data & APIs Analysis Report
+
+- **Total Clean Records:** 96
+- **Mean Temperature:** 22.41 °C
+- **Peak Temperature:** 29.20 °C
+- **Lowest Temperature:** 16.50 °C
+
+## Daily Summary
+| date       |   mean_temp_c |   max_temp_c |   min_temp_c |   mean_humidity_pct |
+|:-----------|--------------:|-------------:|-------------:|--------------------:|
+| 2026-11-19 |         22.63 |         27.9 |         17.9 |               42.42 |
+| 2026-11-20 |         21.62 |         27.7 |         16.5 |               40.12 |
+| 2026-11-21 |         22.26 |         28.6 |         16.7 |               42.33 |
+| 2026-11-22 |         23.14 |         29.2 |         17.5 |               42.67 |
